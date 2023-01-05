@@ -28,4 +28,10 @@ public class Casa extends Inmueble {
         return areaAB.multiply(super.getValorComercial());
     }
 
+
+
+}
+
+public testing CalcularImpuesto() {
+  hola= "hola";
 }
